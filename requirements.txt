@@ -1,0 +1,16 @@
+# Job Application Tracker - Python Requirements
+#
+# This application uses only Python standard library modules.
+# No external packages are required to run the application.
+#
+# Standard library modules used:
+# - tkinter (GUI)
+# - sqlite3 (Database)
+# - csv (Export functionality)
+# - datetime (Timestamps)
+# - pathlib (File paths)
+#
+# Python version required: 3.8+
+#
+# For development/packaging:
+# pyinstaller>=5.0  # For creating standalone executables (optional)
